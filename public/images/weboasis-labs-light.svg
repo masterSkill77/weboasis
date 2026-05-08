@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="56" viewBox="0 0 380 56">
+  <rect x="0" y="4" width="48" height="48" rx="14" fill="#060e0a"/>
+  <path d="M11 14 C11 14 14 38 17 38 C20 38 22 26 24 26 C26 26 28 38 31 38 C34 38 37 14 37 14" fill="none" stroke="#1D9E75" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="37" cy="14" r="3.5" fill="#1D9E75"/>
+  <text x="62" y="34" font-family="system-ui,-apple-system,sans-serif" font-weight="800" font-size="28" letter-spacing="-1px">
+    <tspan fill="#085041">Web</tspan><tspan fill="#1D9E75">Oasis</tspan><tspan fill="#B4B2A9" font-size="12" font-weight="400" letter-spacing="4px">  LABS</tspan>
+  </text>
+</svg>
