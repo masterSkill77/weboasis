@@ -35,7 +35,7 @@ import GeoShapes from './GeoShapes.vue';
                         </div>
 
                         <a
-                            href="https://squadly.app"
+                            href="https://squadly.weboasis-lab.com/"
                             target="_blank"
                             rel="noopener"
                             class="inline-flex items-center gap-2 text-brand-dark hover:text-brand transition-colors font-medium"
