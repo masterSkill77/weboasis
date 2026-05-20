@@ -14,7 +14,7 @@ const founders = [
   {
     name: "Tsiory Andrianarivony",
     role: "Co-fondateur, WebOasis Labs",
-    photo: "/images/tsiory2.jpeg",
+    photo: "/images/tsiory.png",
     quote:
       "Ce qui me motive, c'est de voir un entrepreneur local, un médecin de quartier ou une petite école rurale utiliser notre outil et gagner du temps — du vrai temps, pas des secondes. La technologie n'a de sens que si elle change concrètement la vie des gens. C'est ça, notre boussole chez WebOasis Labs.",
   },
