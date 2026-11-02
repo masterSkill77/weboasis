@@ -12,7 +12,7 @@
                 </p>
             </ScrollReveal>
 
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="grid grid-cols-2 gap-6 max-w-2xl">
                 <ScrollReveal
                     v-for="(member, i) in members"
                     :key="member.name"
@@ -45,22 +45,10 @@ const members = [
         bio: 'Vision produit, stratégie et développement.',
     },
     {
-        name: 'Membre 2',
-        initials: 'M2',
+        name: 'Tsiory A.',
+        initials: 'TA',
         role: 'Co-fondateur & Tech',
         bio: 'Architecture technique et infrastructure.',
-    },
-    {
-        name: 'Membre 3',
-        initials: 'M3',
-        role: 'Développeur Full-Stack',
-        bio: 'Laravel, Vue.js et intégrations.',
-    },
-    {
-        name: 'Membre 4',
-        initials: 'M4',
-        role: 'Designer UI/UX',
-        bio: 'Interfaces, branding et expérience utilisateur.',
     },
 ];
 </script>
