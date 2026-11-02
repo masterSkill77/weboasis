@@ -5,18 +5,18 @@ import GeoShapes from "./GeoShapes.vue";
 
 const founders = [
   {
-    name: "Clairmont Rajaonarison",
-    role: "Co-fondateur, WebOasis Labs",
-    photo: "/images/1714405454518.jpeg",
-    quote:
-      "J'ai grandi à Madagascar en voyant des communautés entières se débrouiller avec des outils qui n'étaient pas faits pour elles — ou pas d'outils du tout. WebOasis Labs, c'est notre réponse à ça : construire des produits simples, utiles, à des prix justes. On ne vise pas la Silicon Valley. On vise les gens autour de nous.",
-  },
-  {
     name: "Tsiory Andrianarivony",
     role: "Co-fondateur, WebOasis Labs",
     photo: "/images/tsiory.png",
     quote:
       "Ce qui me motive, c'est de voir un entrepreneur local, un médecin de quartier ou une petite école rurale utiliser notre outil et gagner du temps — du vrai temps, pas des secondes. La technologie n'a de sens que si elle change concrètement la vie des gens. C'est ça, notre boussole chez WebOasis Labs.",
+  },
+  {
+    name: "Clairmont Rajaonarison",
+    role: "Co-fondateur, WebOasis Labs",
+    photo: "/images/1714405454518.jpeg",
+    quote:
+      "J'ai grandi à Madagascar en voyant des communautés entières se débrouiller avec des outils qui n'étaient pas faits pour elles — ou pas d'outils du tout. WebOasis Labs, c'est notre réponse à ça : construire des produits simples, utiles, à des prix justes. On ne vise pas la Silicon Valley. On vise les gens autour de nous.",
   },
 ];
 
